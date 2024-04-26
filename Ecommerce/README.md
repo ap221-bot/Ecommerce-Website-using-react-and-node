@@ -1,0 +1,6 @@
+1. open cmd and navigate in admin folder and then write 'npm install'
+2. open cmd and navigate in frontend folder and then write 'npm install'
+3. open cmd and navigate in backend folder and then write 'npm install'
+4. in the cmd of admin write 'npm run dev'
+5. in the cmd of frontend write 'npm start'
+6. in the cmd of backend write 'node .\index.js'

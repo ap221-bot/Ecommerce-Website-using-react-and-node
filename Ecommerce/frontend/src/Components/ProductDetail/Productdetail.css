@@ -1,0 +1,49 @@
+.productdetail{
+    display: flex;
+    margin: 0px 170px;
+}
+.leftSide{
+    display: flex;
+    gap: 17px;
+}
+.mainImg{
+    width: 500px;
+    height: 500px;
+}
+.rightSide{
+    margin: 0px 70px;
+    display: flex;
+    flex-direction: column;
+}
+.rightSide h1{
+    color: darkslategray;
+    font-size: 40px;
+    font-weight: 700;
+}
+.price{
+    display: flex;
+    margin: 40px 0px;
+    gap: 30px;
+    font-size: 24px;
+    font-weight: 700;
+}
+.oldPrice{
+    color: black;
+    text-decoration: line-through;
+}
+.newPrice{
+    color: green;
+}
+.rightSide button{
+    margin-top: 40px;
+    padding: 20px 40px;
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background: orange;
+    margin-bottom: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
